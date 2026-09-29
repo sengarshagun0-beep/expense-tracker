@@ -1,0 +1,10 @@
+def show_menu():
+    print("\n===== PERSONAL EXPENSE TRACKER =====")
+    print("1. Food")
+    print("2. Travel")
+    print("3. Shopping")
+    print("4. Education")
+    print("5. Entertainment")
+    print("6. Others")
+    print("7. View Summary")
+    print("8. Exit")
